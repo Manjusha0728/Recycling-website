@@ -1,0 +1,61 @@
+.start{
+  background-color: #94AF9F;
+  padding:5% 5%;
+  margin:0;
+}
+.start h3{
+   font-size: 3rem;
+}
+.start p{
+  font-size: 1.5rem;
+}
+.marketing{
+  padding:5% 10%;
+  text-align: center;
+  
+  
+}
+.a{
+  text-align: center;
+  padding-bottom: 2%;
+  
+}
+.col{
+  border-width:2px solid ;
+}
+.rounded-circle-a{
+ border-radius: 100%;
+  height: 60%;
+  width: 50%;
+ 
+  
+}
+.rounded-circle-b{
+  border-radius: 100%;
+   height: 60%;
+   width: 50%;
+ 
+ 
+ }
+ .processimg{
+  text-align: center;
+ }
+ #footer{
+  text-align: center;
+  padding: 5% 15%;
+  background-color: #94AF9F;
+}
+.footer-icon{
+ margin: 20px 10px;
+}
+.copyright{
+  padding-top: 1%;
+  padding-bottom: 4%;
+
+}
+.card{
+  display: inline-block;
+  padding: 5px;
+  border: 2px solid;
+  margin: auto 15px;
+}
